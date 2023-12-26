@@ -29,3 +29,4 @@ def Brötchenverkauf():
         
 Brötchenverkauf()
 #Brötchenverkauf() ist ein Funktion und es funktioniert genau wie variable. Ohne print kann man abrufen.
+#nochmal
